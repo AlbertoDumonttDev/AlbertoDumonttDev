@@ -31,3 +31,6 @@ Software developer with experience in Node.js, PHP, Python, MySQL and other tech
     <img align="center" alt="html5" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=whitee">
     <img align="center" alt="html5" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
 </div></br>
+
+
+📫 You can contact me at albertodumonttdev@outlook.com
