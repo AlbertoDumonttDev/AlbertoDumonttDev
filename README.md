@@ -23,7 +23,7 @@ Software developer with experience in Node.js, PHP, Python, MySQL and other tech
     <img align="center" alt="html5" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </div></br>
 
-## technologies I am currently studying
+## Technologies I am currently studying
 
 <div style="display: inline_block"></br>
     <img align="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
